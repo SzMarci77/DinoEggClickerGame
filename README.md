@@ -34,3 +34,7 @@ Készült Unity-ben, tanulási és gyakorlási céllal.
 1. Klónozd a repót:
    ```bash
    git clone https://github.com/SzMarci77/DinoEggClickerGame.git
+2. Nyisd meg Unity Hub-ot és importáld a letöltött mappát (válaszd ki)
+3. Várj, hogy Unity összekészítse a projektek (első indításra lassú lehet)
+4. File menüpontban -> Build Settings -> Build gomb
+5. Add meg célpontot hova fordítsa le a fájlokat, nevezed el pl: "Csillagkozi-Expedicio"-nak
