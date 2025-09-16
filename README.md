@@ -18,7 +18,6 @@ Készült Unity-ben, tanulási és gyakorlási céllal.
 - 🖱️ **Clicker mechanika** – manuálisan gyűjthető tojások  
 - ⏳ **Idle rendszer** – automatikus tojástermelés másodpercenként  
 - 🛒 **Fejlesztések boltja** – több szintű vásárolható upgrade  
-- 📈 **Skálázódó árak és jövedelem**  
 
 ---
 
