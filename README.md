@@ -34,4 +34,4 @@ Készült Unity-ben, tanulási és gyakorlási céllal.
 
 1. Klónozd a repót:
    ```bash
-   git clone https://github.com/<felhasználóneved>/dino-egg-clicker.git
+   git clone https://github.com/SzMarci77/DinoEggClickerGame.git
